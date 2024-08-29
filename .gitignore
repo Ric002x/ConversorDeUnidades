@@ -1,0 +1,8 @@
+# Ignorar arquivo Venv
+
+venv/
+
+
+# Ignorar arquivos pycache
+
+_pycache_
